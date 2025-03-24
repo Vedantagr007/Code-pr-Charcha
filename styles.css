@@ -1,0 +1,7 @@
+textarea{
+    resize: vertical;
+}
+
+.container{
+    min-height: 80vh;
+}
